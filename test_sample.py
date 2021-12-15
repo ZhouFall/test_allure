@@ -27,8 +27,7 @@ class TestEditPage():
         step_2()
         print("百度一下，你就知道")
 
-
-@allure.story("谷歌搜索")
-def test_2(self):
-    '''这是测试谷歌搜索'''
-    assert 1 == 2, "搜索失败"
+    @allure.story("谷歌搜索")
+    def test_2(self):
+        '''这是测试谷歌搜索'''
+        assert 1 == 2, "搜索失败"

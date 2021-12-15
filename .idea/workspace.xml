@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="361d095f-17ac-442b-aba5-39d5c736e6c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/test_allure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/671c2ea80f4d4acc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/749a3da167c8dfb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/7b73436404c79fa4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/c7513b911952ab6a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/plugins/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/1455113d-5811-4575-8f9f-d1d46025e2e0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2fb0386b-34eb-465d-ba28-3f611b9b0e6d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/4574cbc9-1c6b-4276-af6d-9b5289849154-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/aeff2632-91dd-4ffc-ab57-753fb841c6ba-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/b532e566-9833-431a-860d-810154074d93-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/d52c26e0-4d09-4bf7-a4af-8502e61b8a67-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/172f0ffc-1dec-4bde-abd8-8dc7f5ae3716-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/1ff8a668-ae9a-4c08-b023-89e7ba7d1143-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/5db77ac1-eb7e-4c0e-b69d-2db784251e7d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/5e993d26-c1ef-4a5a-a5cd-6d3730ca3eb3-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/62989640-f2d5-4f21-b539-8e45cc982ea2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/80aa2e1a-b521-4eb0-bfe9-cb82f3cfb2b6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/86b4b2ca-8271-4286-9bfe-eff5023780c9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/a8a7918e-0e0a-4be0-b677-2001a48e9211-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/d605a764-3e13-415c-83f0-d427d4d56804-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/f92794fb-061e-402a-a5fb-7aed428b5865-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/fc8665cf-254c-4185-b2e6-dc91126adc32-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_sample.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22JHpInIU3E6zwpDb8jWQbPRUWJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="361d095f-17ac-442b-aba5-39d5c736e6c4" name="Changes" comment="" />
+      <created>1639548951512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639548951512</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
